@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    style="@style/ls"
+    android:layout_gravity="center"
+    android:layout_marginLeft="4dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginRight="4dp"
+    android:layout_marginBottom="4dp"
+    card_view:cardCornerRadius="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <!--tampilan gambar-->
+        <ImageView
+            android:id="@+id/foto_produk"
+            android:layout_width="63dp"
+            android:layout_height="96dp"
+            android:layout_marginRight="8dp"
+            android:layout_centerVertical="true"
+            tools:src="@color/colorAccent"/>
+
+        <!--blok sebelah foto produk-->
+        <LinearLayout
+            style="@style/ls"
+            android:orientation="vertical"
+            android:layout_toRightOf="@+id/foto_produk"
+            android:layout_toEndOf="@+id/foto_produk">
+
+            <!--judul buku-->
+            <TextView
+                android:id="@+id/tv_judul"
+                style="@style/textJudul"
+                android:text="@string/judul"/>
+
+            <!--nama penulis-->
+            <TextView
+                android:id="@+id/tv_penulis"
+                style="@style/textPenulis"
+                android:text="@string/penulis"
+                android:paddingTop="@dimen/pdt"/>
+
+            <!--harga-->
+            <TextView
+                android:id="@+id/tv_harga"
+                style="@style/textHarga"
+                android:paddingTop="@dimen/pdt"
+                android:text="@string/harga"/>
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/view_detail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <!--tata letak utama-->
+    <LinearLayout
+        style="@style/ls"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:orientation="vertical"
+            style="@style/ls"
+            android:layout_margin="16dp">
+
+            <!--foto buku-->
+            <ImageView
+                android:id="@+id/foto_produk"
+                android:layout_width="120dp"
+                android:layout_height="180dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/white" />
+
+            <!--detail buku dikanan foto produk-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/foto_produk"
+                android:layout_toRightOf="@+id/foto_produk"
+                android:paddingLeft="16dp"
+                android:orientation="vertical">
+
+                <!--judul-->
+                <TextView
+                    android:id="@id/tv_judul"
+                    style="@style/textJudul.detail"
+                    android:text="@string/judul" />
+
+                <!--penulis-->
+                <TextView
+                    android:id="@id/tv_penulis"
+                    style="@style/textPenulis.detail"
+                    android:paddingTop="@dimen/pdt"
+                    android:text="@string/penulis"/>
+
+                <!--harga-->
+                <TextView
+                    android:id="@id/tv_harga"
+                    style="@style/textHarga.detail"
+                    android:paddingTop="@dimen/pdt"
+                    android:text="@string/harga" />
+
+                <!--button beli-->
+                <Button
+                    android:id="@+id/btn_beli"
+                    style="@style/btn_beli"
+                    android:layout_marginTop="16dp"
+                    android:text="@string/beli" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <!--sub title : detail buku-->
+        <TextView
+            style="@style/texts.h2"
+            android:paddingHorizontal="@dimen/pd2"
+            android:paddingBottom="@dimen/pdt"
+            android:text="Detail Buku" />
+
+        <!--tampilan tabel untuk spesifikasi buku-->
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/pd2"
+            android:layout_marginRight="@dimen/pd2"
+            android:layout_marginBottom="@dimen/pd2">
+
+            <!--tahun terbit-->
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/texts"
+                    android:layout_marginRight="@dimen/pd2"
+                    android:text="Tahun Terbit"/>
+
+                <!--isian tahun terbit-->
+                <TextView
+                    android:id="@+id/tv_tahun"
+                    style="@style/texts"
+                    android:layout_weight="1"
+                    android:text="@string/tahun"
+                    android:textColor="@android:color/black"/>
+            </TableRow>
+
+            <!--penerbit-->
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/texts"
+                    android:layout_marginRight="@dimen/pd2"
+                    android:text="Penerbit"/>
+
+                <!--isian penerbit-->
+                <TextView
+                    android:id="@+id/tv_penerbit"
+                    style="@style/texts"
+                    android:layout_weight="1"
+                    android:text="@string/penerbit"
+                    android:textColor="@android:color/black"/>
+            </TableRow>
+        </TableLayout>
+
+        <!--teks deskripsi-->
+        <TextView
+            style="@style/texts.h2"
+            android:paddingHorizontal="@dimen/pd2"
+            android:paddingBottom="@dimen/pdt"
+            android:text="Deskripsi" />
+
+        <!--isian deskripsi-->
+        <TextView
+            android:id="@+id/tv_deskripsi"
+            style="@style/texts"
+            android:paddingHorizontal="@dimen/pd2"
+            android:paddingBottom="@dimen/pd2"
+            android:text="@string/deskripsi" />
+
+        <!--sub title : buku lainnya-->
+        <TextView
+            style="@style/texts.h2"
+            android:paddingHorizontal="@dimen/pd2"
+            android:paddingBottom="@dimen/pdt"
+            android:text="Buku Lainnya" />
+
+        <!--scroll horizontal untuk saran buku-->
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/slide_detail"
+            android:scrollbars="horizontal">
+
+            <!--untuk atur tampilan card mendatar-->
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="@dimen/pdt"
+                android:paddingBottom="@dimen/pdt">
+
+                <!--card : saran buku 1-->
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/slide1"
+                    style="@style/card_detail"
+                    card_view:cardCornerRadius="4dp">
+                    <LinearLayout
+                        android:id="@+id/slides1"
+                        style="@style/wrapped"
+                        android:padding="8dp"
+                        android:orientation="vertical">
+
+                        <!--tampilan gambar-->
+                        <ImageView
+                            android:id="@+id/foto_slide1"
+                            android:layout_width="120dp"
+                            android:layout_height="180dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_centerVertical="true"
+                            android:background="#FFFFFF" />
+
+                        <!--judul buku-->
+                        <TextView
+                            android:id="@+id/judul_slide1"
+                            android:paddingTop="@dimen/pdt"
+                            style="@style/texts"
+                            android:textStyle="bold"
+                            android:textAlignment="center"
+                            android:text="@string/judul"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <!--card : saran buku 2-->
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/slide2"
+                    style="@style/card_detail"
+                    android:layout_toEndOf="@id/slide1"
+                    android:layout_toLeftOf="@id/slide1"
+                    card_view:cardCornerRadius="4dp">
+                    <LinearLayout
+                        android:id="@+id/slides2"
+                        style="@style/wrapped"
+                        android:padding="8dp"
+                        android:orientation="vertical">
+
+                        <!--tampilan gambar-->
+                        <ImageView
+                            android:id="@+id/foto_slide2"
+                            android:layout_width="120dp"
+                            android:layout_height="180dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_centerVertical="true"
+                            android:background="#FFFFFF" />
+
+                        <!--judul buku-->
+                        <TextView
+                            android:id="@+id/judul_slide2"
+                            android:paddingTop="@dimen/pdt"
+                            style="@style/texts"
+                            android:textStyle="bold"
+                            android:textAlignment="center"
+                            android:text="@string/judul"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <!--card : saran buku 3-->
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/slide3"
+                    style="@style/card_detail"
+                    android:layout_toEndOf="@id/slide2"
+                    android:layout_toLeftOf="@id/slide2"
+                    card_view:cardCornerRadius="4dp">
+                    <LinearLayout
+                        android:id="@+id/slides3"
+                        style="@style/wrapped"
+                        android:padding="8dp"
+                        android:orientation="vertical">
+
+                        <!--tampilan gambar-->
+                        <ImageView
+                            android:id="@+id/foto_slide3"
+                            android:layout_width="120dp"
+                            android:layout_height="180dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_centerVertical="true"
+                            android:background="#FFFFFF" />
+
+                        <!--judul buku-->
+                        <TextView
+                            android:id="@+id/judul_slide3"
+                            android:paddingTop="@dimen/pdt"
+                            style="@style/texts"
+                            android:textStyle="bold"
+                            android:textAlignment="center"
+                            android:text="@string/judul"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </RelativeLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+</ScrollView>

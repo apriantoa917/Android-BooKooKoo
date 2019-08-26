@@ -1,0 +1,4 @@
+#Mon Aug 26 08:00:44 ICT 2019
+base.0=D\:\\Project\\Project Android\\BooKooKoo\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

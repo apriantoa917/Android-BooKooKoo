@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BooKooKoo</string>
+    <string name="judul">Judul Buku</string>
+    <string name="penulis">Nama Penulis</string>
+    <string name="harga">Rp 100.000</string>
+    <string name="beli">Beli</string>
+    <string name="tahun">tahun</string>
+    <string name="penerbit">penerbit</string>
+    <string name="deskripsi">Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf. Ia tidak hanya bertahan selama 5 abad, tapi juga telah beralih ke penataan huruf elektronik, tanpa ada perubahan apapun. </string>
+</resources>

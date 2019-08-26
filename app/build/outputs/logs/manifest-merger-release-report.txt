@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\cf6a3b7aea43198251f82314fd1cfbec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\3e6166f9853bcbc21d798c758e08092e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\c2c578657892a937c63cd61c94b80151\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\4c115289a0bfb7c64ffa4ba627a46996\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\76325a7a243cf7ef9ca0b3cafb80f1d9\AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\b704b83612159fa16dbf03097bccbc35\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\3b786e859538d7637f37a805364d0c43\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\0fe8a4780982ee2b41ab901be60547aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\2773cac362958035e2bcb97e05fbd4b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\fbfeaf70c5faed190db69cbdd1ca2a10\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\33b5197c312c14ba2b987f46fa6a4104\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\4eec0e1002dd06eeb6a2c88084a6f8c0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\582b3e44e9d3803ebb0cf6fab4f778fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\27d6f6b3c99d3d74f5d0d2c4f1be02ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\e3d64fbe639d6b74ca85be27fa443cf4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\72d34cccf756028456006a911ce64285\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\afc425da0776d14c57ab5b0a0c303f40\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\692b93f970da1abac2e82e9813c08255\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\288361a87d9d6e6ff1eb1b10bd88e123\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\187882fbaec0e1b9cf3bea6afa350c69\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\ef5051a0138b30306b910cb11c4bdb29\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\143580d5ae64cb2900cfc8e34bbe617b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\a862f320b9c4ac64e138f7d50e32d794\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\0e434dcab0336604943f46822da25d2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\5d238bff177a5410f2e823fde691454a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\c5d4b6532071f43c974d2f64f0f81c52\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\200ddef252727509301189f4f13b3ba0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\310f3586e2b802794e81122c6a68dd71\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\6de958872a269436aa7506eb59231075\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\54f9a614f8afb2be7d601a945944689f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\a88de9a1cb172955fad04591c342570c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\889b88699a92fea4535e95bef64ee124\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\3e6166f9853bcbc21d798c758e08092e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\3e6166f9853bcbc21d798c758e08092e\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\76325a7a243cf7ef9ca0b3cafb80f1d9\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\76325a7a243cf7ef9ca0b3cafb80f1d9\AndroidManifest.xml:10:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\b704b83612159fa16dbf03097bccbc35\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\b704b83612159fa16dbf03097bccbc35\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\187882fbaec0e1b9cf3bea6afa350c69\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\187882fbaec0e1b9cf3bea6afa350c69\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\ef5051a0138b30306b910cb11c4bdb29\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\ef5051a0138b30306b910cb11c4bdb29\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\a862f320b9c4ac64e138f7d50e32d794\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\a862f320b9c4ac64e138f7d50e32d794\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\187882fbaec0e1b9cf3bea6afa350c69\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:7:9-36
+	android:allowBackup
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.aprianto.bookookoo.MainActivity
+ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.aprianto.bookookoo.buku_detail
+ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:19:9-20:67
+	android:parentActivityName
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:19:19-46
+activity#com.aprianto.bookookoo.buku_profile
+ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:21:9-22:67
+	android:parentActivityName
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:22:13-55
+	android:name
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml:21:19-47
+uses-sdk
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\cf6a3b7aea43198251f82314fd1cfbec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\cf6a3b7aea43198251f82314fd1cfbec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\3e6166f9853bcbc21d798c758e08092e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\3e6166f9853bcbc21d798c758e08092e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\c2c578657892a937c63cd61c94b80151\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\c2c578657892a937c63cd61c94b80151\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\4c115289a0bfb7c64ffa4ba627a46996\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\4c115289a0bfb7c64ffa4ba627a46996\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\76325a7a243cf7ef9ca0b3cafb80f1d9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\76325a7a243cf7ef9ca0b3cafb80f1d9\AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\b704b83612159fa16dbf03097bccbc35\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\b704b83612159fa16dbf03097bccbc35\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\3b786e859538d7637f37a805364d0c43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\3b786e859538d7637f37a805364d0c43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\0fe8a4780982ee2b41ab901be60547aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\0fe8a4780982ee2b41ab901be60547aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\2773cac362958035e2bcb97e05fbd4b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\2773cac362958035e2bcb97e05fbd4b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\fbfeaf70c5faed190db69cbdd1ca2a10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\fbfeaf70c5faed190db69cbdd1ca2a10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\33b5197c312c14ba2b987f46fa6a4104\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\33b5197c312c14ba2b987f46fa6a4104\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\4eec0e1002dd06eeb6a2c88084a6f8c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\4eec0e1002dd06eeb6a2c88084a6f8c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\582b3e44e9d3803ebb0cf6fab4f778fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\582b3e44e9d3803ebb0cf6fab4f778fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\27d6f6b3c99d3d74f5d0d2c4f1be02ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\27d6f6b3c99d3d74f5d0d2c4f1be02ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\e3d64fbe639d6b74ca85be27fa443cf4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\e3d64fbe639d6b74ca85be27fa443cf4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\72d34cccf756028456006a911ce64285\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\72d34cccf756028456006a911ce64285\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\afc425da0776d14c57ab5b0a0c303f40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\afc425da0776d14c57ab5b0a0c303f40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\692b93f970da1abac2e82e9813c08255\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\692b93f970da1abac2e82e9813c08255\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\288361a87d9d6e6ff1eb1b10bd88e123\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\288361a87d9d6e6ff1eb1b10bd88e123\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\187882fbaec0e1b9cf3bea6afa350c69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\187882fbaec0e1b9cf3bea6afa350c69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\ef5051a0138b30306b910cb11c4bdb29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\ef5051a0138b30306b910cb11c4bdb29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\143580d5ae64cb2900cfc8e34bbe617b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\143580d5ae64cb2900cfc8e34bbe617b\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\a862f320b9c4ac64e138f7d50e32d794\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\a862f320b9c4ac64e138f7d50e32d794\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\0e434dcab0336604943f46822da25d2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\0e434dcab0336604943f46822da25d2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\5d238bff177a5410f2e823fde691454a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\5d238bff177a5410f2e823fde691454a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\c5d4b6532071f43c974d2f64f0f81c52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\c5d4b6532071f43c974d2f64f0f81c52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\200ddef252727509301189f4f13b3ba0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\200ddef252727509301189f4f13b3ba0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\310f3586e2b802794e81122c6a68dd71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\310f3586e2b802794e81122c6a68dd71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\6de958872a269436aa7506eb59231075\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\6de958872a269436aa7506eb59231075\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\54f9a614f8afb2be7d601a945944689f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\54f9a614f8afb2be7d601a945944689f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\a88de9a1cb172955fad04591c342570c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\a88de9a1cb172955fad04591c342570c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\889b88699a92fea4535e95bef64ee124\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ROG STRIX\.gradle\caches\transforms-2\files-2.1\889b88699a92fea4535e95bef64ee124\AndroidManifest.xml:20:5-44
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Project Android\BooKooKoo\app\src\main\AndroidManifest.xml

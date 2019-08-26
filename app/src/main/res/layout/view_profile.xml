@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/pd2">
+
+        <!--untuk memposisikan picture profil di tengah layar dg Relative Layout-->
+        <RelativeLayout
+            style="@style/ls">
+
+            <!--profil picture-->
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/foto_profile"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginTop="32dp"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/aprianto" />
+        </RelativeLayout>
+
+        <!--nama-->
+        <TextView
+            style="@style/texts.h2"
+            android:textSize="23sp"
+            android:paddingTop="@dimen/pd2"
+            android:textAlignment="center"
+            android:text="Aprianto"/>
+
+        <!--email-->
+        <TextView
+            android:id="@+id/email"
+            style="@style/texts"
+            android:paddingVertical="8dp"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:text="apriantoa917@gmail.com"/>
+
+        <!--untuk link dengan dekorasi separator-->
+        <LinearLayout
+            style="@style/ls"
+            android:layout_marginHorizontal="32dp"
+            android:paddingTop="16dp"
+            android:orientation="vertical">
+
+            <!--link github-->
+            <LinearLayout
+                android:id="@+id/link_github"
+                style="@style/ls"
+                android:orientation="vertical">
+                <View
+                    style="@style/separator"/>
+                <TextView
+                    style="@style/texts.list"
+                    android:text="Github"/>
+            </LinearLayout>
+
+            <!--link link instagram-->
+            <LinearLayout
+                android:id="@+id/link_instagram"
+                style="@style/ls"
+                android:orientation="vertical">
+                <View
+                    style="@style/separator"/>
+                <TextView
+                    style="@style/texts.list"
+                    android:text="Instagram"/>
+                <View
+                    style="@style/separator"/>
+            </LinearLayout>
+
+            <!--link blog-->
+            <LinearLayout
+                android:id="@+id/link_blog"
+                style="@style/ls"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/texts.list"
+                    android:text="Blog"/>
+                <View
+                    style="@style/separator"/>
+            </LinearLayout>
+
+            <!--untuk keterangan sumber konten-->
+            <LinearLayout
+                style="@style/ls"
+                android:orientation="vertical"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="@dimen/pdt">
+                <TextView
+                    style="@style/ls"
+                    android:textAlignment="center"
+                    android:text="Semua konten yang tampil bersumber dari Gramedia.com dan seluruh hak cipta milik Gramedia.com"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
